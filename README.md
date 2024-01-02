@@ -4,3 +4,4 @@ my none standard cable assemblies
 This is a documentation of my none standard cables. 
 It is on github because I was looking for a place  where I can use   qr codes to point to the cables .
 
+to generate QR codes , check https://qrcode.tec-it.com/en/Url
