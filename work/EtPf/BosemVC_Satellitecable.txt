@@ -1,0 +1,6 @@
+Documentation of this cable you can find at : 
+\WP7 - Controls\conditioning_controls\BOSEM\BosemTest\Bosemtestsetup.odt
+
+This document is not public available . 
+Don't use this cable for the final EtPf installation
+
