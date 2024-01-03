@@ -1,8 +1,8 @@
 Documentation of this cable you can find at : 
+proto type power cable for satelite and vc units
 \WP7 - Controls\conditioning_controls\BOSEM\BosemTest\Bosemtestsetup.odt
 
-This cable has to be mounten between the VC driver and satelite amplifier.   ( VC signals ) 
-
 This document is not public available . 
-Don't use this cable for the final EtPf installation
+D
+
 
