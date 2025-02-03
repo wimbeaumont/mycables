@@ -6,3 +6,5 @@ This cable has to be mounten between the VC driver and satelite amplifier.   ( V
 This document is not public available . 
 Don't use this cable for the final EtPf installation
 
+The  VC to SAT Cables for the installation are availabe see EtPF -> WP7 -> Cabels in air
+
